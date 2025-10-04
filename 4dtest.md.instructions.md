@@ -7,10 +7,10 @@ This file contains instructions for running tests on 4D files.
 
 ## Prerequisites
 - Ensure you have 4D installed on your system. Possile paths include:
-  - tool4d.app/Contents/MacOS/tool4d if exists in project
-  - tool4d (if in $PATH)
-  - or $TOOL4DBIN environment variable
-  - or use most recent one in $HOME/Library/Application Support/Code/User/globalStorage/4D.4d-analyzer/tool4d/<version>/<changelist>/tool4d.app/Contents/MacOS/tool4d' (use find command to locate it)
+  - `tool4d.app/Contents/MacOS/tool4d` if exists in project
+  - `tool4d` (if in $PATH)
+  - or `$TOOL4DBIN` environment variable
+  - or use most recent one in `$HOME/Library/Application Support/Code/User/globalStorage/4D.4d-analyzer/tool4d/<version>/<changelist>/tool4d.app/Contents/MacOS/tool4d` (use find command to locate it)
   
 ## Running Tests
 
